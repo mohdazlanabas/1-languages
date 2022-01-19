@@ -1,0 +1,6 @@
+/Users/admin/Desktop/Programing/CSharp/Project002/obj/Debug/Project002.csproj.AssemblyReference.cache
+/Users/admin/Desktop/Programing/CSharp/Project002/obj/Debug/Project002.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Programing/CSharp/Project002/bin/Debug/Project002.exe
+/Users/admin/Desktop/Programing/CSharp/Project002/bin/Debug/Project002.pdb
+/Users/admin/Desktop/Programing/CSharp/Project002/obj/Debug/Project002.exe
+/Users/admin/Desktop/Programing/CSharp/Project002/obj/Debug/Project002.pdb
