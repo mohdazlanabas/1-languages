@@ -1,0 +1,29 @@
+body{
+    font-family: sans-serif;
+    background-color: pink;
+/*    display: flex;
+    justify-content: center;
+    margin-top: 80px;*/
+}
+
+.ballg{
+    position:absolute;
+    background-color: green;
+    height: 200px;
+    width: 200px;
+    border-radius: 200px;
+}
+
+/*.bally{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    border-radius: 200px;
+    margin: 20px;}
+
+.ballr{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    border-radius: 200px;
+    margin: 20px;} */

@@ -1,0 +1,29 @@
+body{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+
+.text{
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+    color:black;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.picto {
+    height: 500px;
+    width: 500px;
+    margin-left: 300px;
+    margin-bottom: 25px;
+  }
+
+  .photo {
+      width: 100px;
+      height: 100px;
+      border-radius: 100px;
+  }

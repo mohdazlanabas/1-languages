@@ -1,0 +1,35 @@
+body{
+    font-family: sans-serif;
+    background-color: pink;
+    display: flex;
+    margin-top: 80px;
+    justify-content: center;
+}
+
+.ballGreen{
+    background-color:green;
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
+.ballYellow{
+    position: absolute;
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+
+}
+.ballRed{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
+
+.ballBlack{
+    background-color: black;
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    margin: 20px; }
